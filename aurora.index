@@ -4,7 +4,9 @@
 		<name>Supplements</name>
 		<description>Supplements from Wizards of the Coast to expand your core gaming elements.</description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
-
+		<update version="0.1.0">
+			<file name="aurora.index" url="https://raw.githubusercontent.com/gutterwife/personal/main/aurora.index" />
+		</update>
 	</info>
 	<files>
 		<file name="internal.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/internal.xml" />
